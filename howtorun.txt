@@ -1,0 +1,13 @@
+configure venv
+
+install requirements in freakyappy(backend)
+
+install all dependencies in frontend
+
+run django server
+you can check by going to local host/api/ and see all api overview
+
+run react 
+
+
+app should work
